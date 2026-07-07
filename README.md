@@ -94,6 +94,8 @@ Yes — logging out and back in refreshes your session, and your account remains
 
 访问 **[chonggrok.com](https://chonggrok.com)** —— 面向中文用户,支付宝/微信付款即可。
 
+如果你想看完整的 ChatGPT Plus / Pro 充值、代充、支付宝微信付款与方案对比教程，可以参考：https://github.com/usehe/chatgpt-plus-pro-recharge-guide。
+
 > **📢 诚实口径与边界**
 > * **任何线上服务都非零风险**,我们不玩"100%不封号"的文字游戏。官方在模型、额度、地区、风控上的规则可能随时调整。
 > * **不要密码**:不索要密码、验证码或恢复码,账号始终归你。
